@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zack9433/mxcloud-storage.git"
+    "url": "https://github.com/Sanji-IO/mxcloud-storage.git"
   },
   "author": "zack9433",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zack9433/mxcloud-storage/issues"
+    "url": "https://github.com/Sanji-IO/mxcloud-storage/issues"
   },
   "dependencies": {
     "bunyan": "0.22.3",
@@ -26,5 +26,5 @@
   "devDependencies": {
     "express": "^4.4.2"
   },
-  "homepage": "https://github.com/zack9433/mxcloud-storage"
+  "homepage": "https://github.com/Sanji-IO/mxcloud-storage"
 }
