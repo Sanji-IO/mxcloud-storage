@@ -1,6 +1,6 @@
 {
   "name": "mxcloud-storage",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "MXcloud storage bundle",
   "main": "index.js",
   "scripts": {
