@@ -16,7 +16,7 @@
     "url": "https://github.com/Sanji-IO/mxcloud-storage/issues"
   },
   "dependencies": {
-    "bunyan": "0.22.3",
+    "bunyan": "1.2.3",
     "clone": "^0.1.18",
     "lodash-node": "2.4.1",
     "mqtt": "^0.3.12",
