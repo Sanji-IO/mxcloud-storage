@@ -21,7 +21,7 @@
     "mqtt": "^0.3.12",
     "path-to-regexp": "^1.0.1",
     "q": "1.0.1",
-    "sanji-node-logger": "0.0.1"
+    "sanji-logger": "0.0.1"
   },
   "devDependencies": {
     "express": "^4.4.2"
